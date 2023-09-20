@@ -1,7 +1,7 @@
 ## Table of Contents 
 
-1. Project Title
-   - hi
+* Project Title
+*    Hello World 
 * Description
 * How to Run Program
 * Files Used

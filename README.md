@@ -1,6 +1,7 @@
 ## Table of Contents 
 
-* Project Title
+1. Project Title
+   - hi
 * Description
 * How to Run Program
 * Files Used

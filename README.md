@@ -1,7 +1,8 @@
 ## Table of Contents 
 
 * Project Title
-*    Hello World 
+   - Hello World
+     
 * Description
 * How to Run Program
 * Files Used

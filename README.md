@@ -10,4 +10,4 @@
 ### Project Title
    Hello-World
 ### Description 
-   Helps users understand my project
+   Helps users understand *my* project

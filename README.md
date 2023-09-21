@@ -1,10 +1,11 @@
 ## Table of Contents 
 
-* Project Title
-   - Hello World
-     
+* Project Title   
 * Description
 * How to Run Program
 * Files Used
 * Additional Documentation
 * Versioning
+
+### Project Title
+   Hello World 
